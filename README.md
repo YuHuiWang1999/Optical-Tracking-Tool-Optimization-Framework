@@ -1,6 +1,6 @@
 # Optical-Tracking-Tool-Optimization-Framework
 This project provides a constraint-driven automated framework for optimizing multi-tool fiducial configurations in surgical navigation systems. The C++/MATLAB implementation enables systematic generation and accuracy ranking of optical tracking tool designs based on point-based rigid registration theory.
-
+![Graphical Abstract](./Graphical Abstract(GA).png)
 Key Innovation: Our framework establishes a unified pose accuracy evaluation metric applicable to both optical probes and dynamic reference frames (DRFs), overcoming limitations of traditional metrics like FRE and TRE. The optimization method incorporates both intra-group uniqueness and inter-group compatibility constraints to generate high-precision tool configurations.
 
 Core Features
